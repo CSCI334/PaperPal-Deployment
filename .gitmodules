@@ -1,6 +1,8 @@
 [submodule "PaperPal-Frontend"]
+	branch = main
 	path = PaperPal-Frontend
 	url = https://github.com/CSCI334/PaperPal-Frontend
 [submodule "PaperPal-Backend"]
+	branch = main
 	path = PaperPal-Backend
 	url = https://github.com/CSCI334/PaperPal-Backend
